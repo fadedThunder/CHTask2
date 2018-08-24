@@ -1,4 +1,4 @@
-protractor-demo
+Task 2
 ===============
 
 CH interview/ Task2
