@@ -9,8 +9,8 @@ exports.config = {
     baseUrl: 'http://images.google.com',
     params:
         {
-            imageName:'Flowers',
-            imageNumber:'6',
+            imageName:'Hills',
+            imageNumber:'5',
         },
 
 
