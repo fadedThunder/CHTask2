@@ -1,15 +1,15 @@
 {
-  "name": "protractor-demo",
+  "name": "protractor-Saonli",
   "version": "0.0.1",
   "author": "",
-  "description": "A demo app with Protractor tests",
+  "description": "Task 2",
   "scripts": {
     "prepare": "node_modules/.bin/webdriver-manager update",
     "test": "node_modules/.bin/protractor conf.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/fadedThunder/CHTask2.git"
   },
   "dependencies": {
     "protractor": "2.1.0",
