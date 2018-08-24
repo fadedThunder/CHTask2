@@ -8,13 +8,16 @@ Setup
 
     git : https://github.com/fadedThunder/CHTask2.git
     
+    1) npm install
+    2) Check the node version node --version
+    3) npm install -g protractor - install protractor globally
+    4) Check the protractor version - protractor --version
+    
 
 To run
 ------
 
-1) npm install
-2) node --version
-3) webdriver-manager update
-4) protractor conf.js
+1) webdriver-manager update
+2) protractor conf.js
 
 
